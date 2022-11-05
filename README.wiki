@@ -2,9 +2,4 @@
 * 👀 I’m interested in wikis
 * 🌱 I’m currently learning more about SemanticMediaWiki
 * 💞️ I’m looking to collaborate on almost anything
-* 📫 Use [http://twitter.com/hexmode twitter] to reach me.
-
-<!---
-hexmodenew/hexmodenew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 📫 Use <a rel="me" href="https://fosstodon.org/@hexmode">Fosstodon</a> to reach me.
